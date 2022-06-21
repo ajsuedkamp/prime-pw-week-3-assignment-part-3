@@ -1,1 +1,13 @@
 /* give your assignment a fun background color */
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    color: rgb(183, 126, 18) 
+}
+
+h2 {
+    color:rgb(183, 126, 18)
+
+}
